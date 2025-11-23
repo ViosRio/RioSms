@@ -1,7 +1,7 @@
 from setuptools import setup
 
-NAME = "b0mb3r"
-DESCRIPTION = "A Roxy Target Sms"
+NAME = "RioSms"
+DESCRIPTION = "A Local API Flowers SMS Target"
 URL = "https://github.com/ViosRio/RioSms"
 EMAIL = ""
 AUTHOR = "crinny"
