@@ -1,8 +1,8 @@
 from setuptools import setup
 
 NAME = "b0mb3r"
-DESCRIPTION = "Открытый и бесплатный СМС бомбер"
-URL = "https://github.com/crinny/b0mb3r"
+DESCRIPTION = "A Roxy Target Sms"
+URL = "https://github.com/ViosRio/RioSms"
 EMAIL = ""
 AUTHOR = "crinny"
 REQUIRES_PYTHON = ">=3.7.0"
